@@ -1,0 +1,11 @@
+public class Alabastro
+{
+Public static voidmain (String [] args)
+{
+int x = 10;
+int average;
+double quiz1 = 10;
+double quiz2 = 9;
+char c = 'a'
+average = (int) (quiz1+quiz2)/2;
+x = c;
